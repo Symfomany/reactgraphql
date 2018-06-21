@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "title": "Stockholm",
+    "img":
+      "https://www.visitstockholm.com/contentassets/c4bdf830124045d689a5840704457fcf/bred.png?preset=detail_big_retina",
+    "lat": 59.3,
+    "lng": 18.1,
+    "disponible": true,
+    "pop": 2100000,
+    "description":
+      "Stockholm is the capital and the largest city of Sweden and constitutes the most populated urban area in Scandinavia with a population of 2.1 million in the metropolitan area (2010)"
+  },
+  {
+    "id": 2,
+    "title": "Oslo",
+    "img":
+      "https://www.visitoslo.com/Images/Bilder%20Oslo/Attraksjoner/Akrobaten%20mot%20Barcode_Leif%20Harald%20Ruud.jpg?t=ScaleToFill%7C1450x720&ts=ajCYo6pTmf0Mfh7RGfLmeiDlLmE%3D",
+    "lat": 59.9,
+    "lng": 10.8,
+    "disponible": false,
+    "pop": 1420000,
+    "description":
+      "Oslo is a municipality, and the capital and most populous city of Norway with a metropolitan population of 1,442,318 (as of 2010)."
+  },
+  {
+    "id": 3,
+    "title": "Copenhagen",
+    "img":
+      "https://vacationidea.com/pix/img25Hy8R/tips/best-time-to-visit-copenhagen-denmark_f.jpg",
+    "lat": 55.7,
+    "lng": 12.6,
+    "disponible": true,
+    "pop": 1940000,
+    "description":
+      "Copenhagen is the capital of Denmark and its most populous city, with a metropolitan population of 1,931,467 (as of 1 January 2012)."
+  },
+  {
+    "id": 4,
+    "title": "Paris",
+    "img":
+      "https://www.parisinfo.com/var/otcp/sites/images/node_43/node_51/node_232/home-berges-de-seine-tour-eiffel-%7C-740x380-%7C-%C2%A9-maxime-dufour/19020507-1-fre-FR/Home-Berges-de-Seine-Tour-Eiffel-%7C-740x380-%7C-%C2%A9-Maxime-Dufour.jpg",
+    "lat": 48.856614,
+    "lng": 2.352222,
+    "disponible": true,
+    "pop": 2260000,
+    "description":
+      "Paris is the capital and most populous city of France, with an area of 105 square kilometres (41 square miles) and a population of 2,206,488"
+  },
+  {
+    "id": 5,
+    "title": "Berlin",
+    "img":
+      "https://www.visitberlin.de/system/files/styles/visitberlin_teaser_full_width_visitberlin_mobile_1x/private/image/iStock_000074120341_Double_DL_PPT_0.jpg?h=a66ba266&itok=tD4ERppn",
+    "lat": 48.856614,
+    "lng": 2.352222,
+    "disponible": true,
+    "pop": 3460000,
+    "description":
+      "Berlin is the capital and the largest city of Germany, as well as one of its 16 constituent states. "
+  },
+  {
+    "id": 6,
+    "title": "Varsovie",
+    "img": "https://o1.ldh.be/image/thumb/5a1aac18cd70fa5a066d27b0.jpg",
+    "lat": 52.229676,
+    "lng": 21.012229,
+    "disponible": false,
+    "pop": 1760000,
+    "description":
+      "Warsaw (Polish: Warszawa [varˈʂava] (About this sound listen); see also other names) is the capital and largest city of Poland. The metropolis stands on the Vistula River in east-central Poland and its population is officially estimated at 1.765 million residents"
+  },
+  {
+    "id": 7,
+    "title": "Amsterdam",
+    "img":
+      "https://www.visitberlin.de/system/files/styles/visitberlin_teaser_full_width_visitberlin_mobile_1x/private/image/iStock_000074120341_Double_DL_PPT_0.jpg?h=a66ba266&itok=tD4ERppn",
+    "lat": 52.370216,
+    "lng": 4.895168,
+    "disponible": true,
+    "pop": 876000,
+    "description":
+      "Amsterdam is the capital and most populous municipality of the Netherlands. Its status as the capital is mandated by the Constitution of the Netherlands"
+  },
+  {
+    "id": 8,
+    "title": "Prague",
+    "img":
+      "https://www.visitberlin.de/system/files/styles/visitberlin_teaser_full_width_visitberlin_mobile_1x/private/image/iStock_000074120341_Double_DL_PPT_0.jpg?h=a66ba266&itok=tD4ERppn",
+    "lat": 50.075538,
+    "lng": 14.4378,
+    "disponible": true,
+    "pop": 1290000,
+    "description":
+      "Prague is the capital and largest city in the Czech Republic, the 14th largest city in the European Union and also the historical capital of Bohemia."
+  }
+]
